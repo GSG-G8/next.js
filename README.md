@@ -10,10 +10,10 @@
 <br />
 
 - 09:00 - 10:30 — [Introduction to Next.js](https://github.com/Rawan96/next-js/blob/master/README.md)
-- 10:35 - 12:00 — [Installation, routing with Pages, and Components and styling]()
+- 10:35 - 12:00 — [Installation, routing with Pages, and Components and styling](https://github.com/rehabas/next-js-router)
 
 — BREAK —
 
-- 13:00 - 15:00 — [Data fetching]()
-- 15:00 - 16:00 — [Deployment]()
-- 16:00 - 17:00 — Demo of our application!
+- 13:00 - 15:00 — [Data fetching](https://github.com/LinaYahya/data-fetching)
+- 15:00 - 16:00 — Deployment.
+
