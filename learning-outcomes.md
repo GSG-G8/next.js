@@ -11,7 +11,7 @@ This day you are going to learn the fundamentals of next.js and by the end of th
   + Build component and style it.
 +  Data fetching
    + Learn how to fetch the data from API.
-   + How to use the fetched data.
+   + How to use the fetched data. (Server and static rendering)
 +  Deployment
    + Deploy your app in Vercel.
  
