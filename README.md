@@ -16,6 +16,6 @@
 — BREAK —
 
 - 14:00 - 15:00 [Data fetching introduction]()
-- 15:00 - 16:00 — [Data fetching ](https://github.com/LinaYahya/data-fetching)
+- 15:00 - 16:00 — [Data fetching code along ](https://github.com/LinaYahya/data-fetching)
 - 16:00 - 16:30 — Deployment.
 
