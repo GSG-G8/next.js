@@ -11,7 +11,7 @@
 
 - 09:00 - 9:45 — [Introduction to Next.js](https://github.com/Rawan96/next-js/blob/master/README.md)
 - 9:50 - 10:30 — [Routing with Pages](https://github.com/rehabas/next-js-router)
-- 10:30 - 11:30 — [CSS Environment variable](https://hackmd.io/DgNyNZx3Tum71XT1Fu4eRA
+- 10:30 - 11:30 — [CSS](https://hackmd.io/DgNyNZx3Tum71XT1Fu4eRA
 )
 
 — BREAK —
